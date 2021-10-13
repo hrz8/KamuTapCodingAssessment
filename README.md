@@ -12,7 +12,7 @@ $ git clone https://github.com/hrz8/KamuTapCodingAssessment
 ```
 
 ## Content 📦🎮
-- The `solution.ts` file is where the algorithm living. [Link](https://github.com/hrz8/KamuTapCodingAssessment/blob/master/solution.ts)
+- The `solution.ts` file is where the algorithm living. [LINK](https://github.com/hrz8/KamuTapCodingAssessment/blob/master/solution.ts) to the file directly.
 - To test out the algorithm, can run the endpoint (`index.ts` file) by clicking `▶️ Run` button in Repl.it
 - Or, can go to the Shell and run this command
 ```bash
