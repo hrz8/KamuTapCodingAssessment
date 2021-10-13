@@ -19,11 +19,11 @@ export class Solution {
     const stack: number[] = [];
     for (let i = 0; i < s.length; i++) {
       const curr = s[i];
-      if (curr === "(") {
+      if (curr === this.openingTag) {
         stack.push(1);
         continue;
       }
-      if (curr === ")") {
+      if (curr === this.closingTag) {
         stack.pop();
         continue;
       }
