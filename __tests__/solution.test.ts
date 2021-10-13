@@ -1,4 +1,4 @@
-import { Solution } from "../app";
+import { Solution } from "../solution";
 
 describe("testing the balance bracket '(' and ')'", () => {
   const isBracketBalance = new Solution("(", ")");
