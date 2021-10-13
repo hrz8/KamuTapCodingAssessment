@@ -25,4 +25,4 @@ $ git clone https://github.com/hrz8/KamuTapCodingAssessment
 ```bash
 [KamuTapCodingAssessment]$ npm run test
 ```
-- Command above will run the test based on expected result given in the documentation.
+- Command above will run the test based on expected result given in the requirement documentation.
