@@ -37,7 +37,6 @@ describe("testing the balance curly bracket '{' and '}'", () => {
 });
 
 describe("testing the error opening and closing tag", () => {
-
   test("should return error when the open tag not char", () => {
     expect(() => { const s = new Solution("", ")") }).toThrow(Error);
   });
